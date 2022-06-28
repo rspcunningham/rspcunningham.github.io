@@ -1,3 +1,6 @@
 {
-    "print.colourScheme": "Atom One"
+    "print.colourScheme": "Atom One",
+    "projectManager.git.baseFolders": [
+        "C:\\Users\\rspcu\\source\\repos\\rspcunningham"
+    ]
 }
